@@ -1,0 +1,6 @@
+@Guest_Api_HostAddress = http://localhost:5058
+
+GET {{Guest_Api_HostAddress}}/guest/
+Accept: application/json
+
+###
